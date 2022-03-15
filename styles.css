@@ -1,0 +1,32 @@
+.main-div{
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.left-div{
+    width: 50%;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.background-image{
+    background-image: url(./Images/phone.png);
+    background-repeat: no-repeat;
+    background-size: 430px;
+    background-position: 40px 0px;
+}
+
+.right-div{
+    width: 50%;
+}
+
+.sc-images{
+    padding-left: 185px;
+    padding-bottom: 80px;
+    padding-top: 25px;
+}
+
+#sc{
+    height: 500px;
+}
